@@ -1,13 +1,14 @@
 package main
 
 import (
-	"common/dragonbone"
-	imgutil "common/img"
 	"flag"
 	"image"
 	"log"
 	"os"
 	"path/filepath"
+
+	"github.com/hyqhyq3/common/dragonbone"
+	imgutil "github.com/hyqhyq3/common/img"
 
 	"github.com/disintegration/imaging"
 )
